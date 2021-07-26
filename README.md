@@ -6,7 +6,7 @@
   
 - 프로젝트 유형 : 개인 프로젝트   
   
-- 배포 링크 : https://github.com/daje0601/covid19-dashboard  
+- 배포 링크 : https://covid-dashboard-daje.herokuapp.com/ 
   
 - 관련 스택 : python, pandas, plotly, gunicorn, Heroku  
   
